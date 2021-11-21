@@ -28,3 +28,5 @@ I am Simone Terrando, engineer, manager and DIY enthusiast.
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sterrando.sterrando)
+
+<!-- Link for badges: https://github.com/Ileriayo/markdown-badges --!>
